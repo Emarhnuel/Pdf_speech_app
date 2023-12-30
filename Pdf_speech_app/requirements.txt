@@ -4,3 +4,4 @@ Streamlit
 langchain
 openai
 python-docx
+python-dotenv== 1.0.0
