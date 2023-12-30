@@ -1,0 +1,6 @@
+PyPDF2
+tiktoken
+Streamlit
+langchain
+openai
+python-docx
